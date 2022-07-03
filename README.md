@@ -1,5 +1,5 @@
 # css-dojo comment stuff
-# blah blah blah
+ blah blah blah
 The CSS Dojo project exists as a demostration of applied CSS concepts,
 both basic and advanced. You can visit it at <INSERT-URL-HERE>.
 
